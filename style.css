@@ -2,25 +2,16 @@
 .carousel-caption{
     bottom: 30px;
 }
-@media (min-width: 576px){
-    .carousel-caption{
-        bottom: 45px;
-    
-    }
-}
 @media (min-width: 768px){
     .carousel-caption{
         bottom: 90px;
     
     }  
 }
-@media (min-width: 912px){
+@media (min-width: 1172px){
     .carousel-caption{
-        bottom: 110px;
+        bottom: 180px;
     
     }
 }
 /* Carousel-Caption Responsive End */
-.article-bg-color{
-    color: #21536b;
-}
