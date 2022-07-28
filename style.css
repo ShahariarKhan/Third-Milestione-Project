@@ -1,0 +1,23 @@
+/* Carousel-Caption Responsive Start */
+.carousel-caption{
+    bottom: 30px;
+}
+@media (min-width: 576px){
+    .carousel-caption{
+        bottom: 45px;
+    
+    }
+}
+@media (min-width: 768px){
+    .carousel-caption{
+        bottom: 90px;
+    
+    }  
+}
+@media (min-width: 912px){
+    .carousel-caption{
+        bottom: 110px;
+    
+    }
+}
+/* Carousel-Caption Responsive Start */
